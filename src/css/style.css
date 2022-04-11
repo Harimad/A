@@ -152,7 +152,7 @@ p {
 
 /* Home */
 #home {
-  background: url('/src/imgs/rainbow.png') center/cover no-repeat;
+  background: url('../imgs/rainbow.png') center/cover no-repeat;
   padding-top: 120px;
   padding: 40px;
   text-align: center;
